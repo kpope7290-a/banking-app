@@ -1,6 +1,21 @@
-# banking-app
-keeps track of banking information
+# Banking App: Secure Account Manager
+
+A Python-based banking simulation built in Jupyter Notebook. Users can deposit, withdraw, view transactions, and project savings interest — all with real-time input and feedback.
+
+### 🔗 Live Demo
+[Explore the banking app](https://your-banking-demo.netlify.app)
+
+### 📄 Features
+- Interactive deposit and withdrawal system
+- Transaction history with timestamps and unique IDs
+- Savings interest projection (1–3 years)
+- Account summary and final balance display
+- Built with Python 3.11 and Jupyter Notebook
+
+### 📂 Source Notebook
 [bank account (1).ipynb](https://github.com/user-attachments/files/24121243/bank.account.1.ipynb)
+
+
 {
  "cells": [
   {
